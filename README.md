@@ -43,12 +43,14 @@ Divided queries into functional workspace folders within Power Query:
   [region] = LOOKUPVALUE(security[region], security[user_email], USERPRINCIPLENAME())
   ```
 
-## 📊 Modeling Visualizations
+## 📊 Modeling 
 ### Before (The Chaos)
-![Chaos Model Architecture](chaos_before.png)
 
 ### After (Clean Star Schema Architecture)
 <img width="1917" height="1017" alt="Screenshot 2026-11-01 135507" src="https://github.com/user-attachments/assets/a7c2d67a-819e-40f5-b960-bbe3cd36e9ef" />
+
+### 📊 Visualization Dashboard And KPIS
+<img width="1917" height="1017" alt="Screenshot 2026-11-01 135236" src="https://github.com/user-attachments/assets/91041d6a-ee5a-43a1-ad46-44ccaa3bfe66" />
 
 
 ## 💡 Engineering Insights
