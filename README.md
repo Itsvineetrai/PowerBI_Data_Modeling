@@ -48,7 +48,8 @@ Divided queries into functional workspace folders within Power Query:
 ![Chaos Model Architecture](chaos_before.png)
 
 ### After (Clean Star Schema Architecture)
-![Clean Star Schema Model](star_schema_after.png)
+<img width="1917" height="1017" alt="Screenshot 2026-11-01 135507" src="https://github.com/user-attachments/assets/a7c2d67a-819e-40f5-b960-bbe3cd36e9ef" />
+
 
 ## 💡 Engineering Insights
 1. **Drop the Noise Early:** Removing useless high-cardinality values reduces file size instantly and improves reporting speeds.
